@@ -44,6 +44,7 @@ If you're in Jupyter Notebook:
 ```python
 !streamlit run app.py
 
+you can also run it via the terminal- where the app.py is located. 
 ---
 
 ## 🧠 How It Works
